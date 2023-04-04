@@ -1,0 +1,6 @@
+(pickup-from-block c b)
+(putdown-to-floor c)
+(pickup-from-block e d)
+(putdown-to-block c e)
+(pickup-from-floor d)
+(putdown-to-block b d)
